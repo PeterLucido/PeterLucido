@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native and Swift**
 
-- 👨‍💻 All of my projects are available at [my port](Link)
+- 👨‍💻 All of my projects are available at ([Link](https://linkedin.com/in/peter-lucido))
 
 - 📫 How to reach me **Petermlucido@gmail.com**
 
